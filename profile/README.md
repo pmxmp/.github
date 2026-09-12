@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/pocketminex-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/pocketminex-light.png">
-  <img alt="PocketMineX-MP" src=".github/readme/pocketminex-light.png">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/pocketminex-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="/pocketminex-light.png">
+    <img alt="PocketMineX-MP" src="/pocketminex-light.png">
+  </picture>
+</p>
 
 Welcome to the **PMXMP** organization — home of **PocketMineX-MP**, a Minecraft: Bedrock Edition server software written in PHP.
 
