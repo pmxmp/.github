@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/readme/pocketminex-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset=".github/readme/pocketminex-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="pocketminex-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="pocketminex-light.png">
   <img alt="PocketMineX-MP" src=".github/readme/pocketminex-light.png">
 </picture>
 
